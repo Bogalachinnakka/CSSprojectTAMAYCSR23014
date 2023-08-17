@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(196, 196, 225);
+    padding-left: 370px;
+    padding-top: 50px;
+
+}
+main page{
+    border-color: black;
+}
+img{
+    border-radius: 500px;
+    border-left: 500px;
+}
+h1{
+    color: rgb(38, 174, 70);
+}
+a{
+    color: rgb(91, 56, 56);
+    border: center 30px;
+}
+.student{
+   .a{
+    background-color: red;
+   }
+}
